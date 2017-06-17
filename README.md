@@ -11,10 +11,10 @@ These instructions will get you a copy of the project up and running on your loc
 2. Start up the netbeans IDE
 3. On nebeans IDE, go to file and click on open project.
 4. Locate ATM java project and click on the Open Project button
-#Running the program
+# Running the program
 1. On the netbeans IDE menu, click Run and a drop down will showup, click on Run Project (ATM).
 2. Supply with test data i.e Deposit 10000, Withdraw 15000
-#Running the automated test
+# Running the automated test
 Press Alt+F6 keys or Right click on ATM project and select Test
 
 # Code Coverage

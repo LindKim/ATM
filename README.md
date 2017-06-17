@@ -1,7 +1,3 @@
-# ATM
-
-For you to run this program, first need to download (git pull) from the repository, then you add the program to the folder of NetBeansProjects.The you open and locate the project from your NetBeansProject Then you run the grogram.
-
 # Project Title
 Take Home Case on ATM
 # Getting Started

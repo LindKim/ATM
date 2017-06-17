@@ -6,7 +6,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Operating System (Windows or Linux or Mac)
 2. Java IDE (Netbeans)
 
-#Installing
+# Installing
 1. Download or git pull from the repository https://github.com/LindKim/ATM to NetbeansProject directory in your PC.
 2. Start up the netbeans IDE
 3. On nebeans IDE, go to file and click on open project.
